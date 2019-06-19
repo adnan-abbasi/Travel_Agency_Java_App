@@ -1,1 +1,2 @@
-# Travel_Agency_Java_App
+# TravelExpertsDesktopApp
+This is the desktop application for Travel agency built in Java
